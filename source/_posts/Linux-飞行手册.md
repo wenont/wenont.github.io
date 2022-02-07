@@ -154,19 +154,19 @@ style:
 
 [https://github.com/zq1997/deepin-wine](https://github.com/zq1997/deepin-wine)
 
-- 高分辨率缩放问题
+**高分辨率缩放问题**
 
 [https://github.com/wszqkzqk/deepin-wine-ubuntu/issues/45](https://github.com/wszqkzqk/deepin-wine-ubuntu/issues/45)
 
-- 注意，deepin-wine的位置应该在：
+**注意，deepin-wine的位置应该在：**
 
-/home/username/.deepinwine/deepin-wine6-stable/bin/wine
+`/home/username/.deepinwine/deepin-wine6-stable/bin/wine`
 
-- 输入字体是小方块 问题
+**输入字体是小方块 问题** 
 
-[https://blog.csdn.net/qq_37624415/article/details/82228572?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param](https://blog.csdn.net/qq_37624415/article/details/82228572?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
+[link](https://blog.csdn.net/qq_37624415/article/details/82228572?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
 
-- manjaro 版
+**manjaro 版**
 
 [https://oscarcx.com/tech/manjaro-xfce-setup.html](https://oscarcx.com/tech/manjaro-xfce-setup.html)
 
@@ -179,8 +179,6 @@ style:
 ### dracula theme
 
 [https://draculatheme.com](https://draculatheme.com/)
-
-[https://draculatheme.com/gedit](https://draculatheme.com/gedit)
 
 ### Pimp terminal
 
