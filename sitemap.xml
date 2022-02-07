@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/02/07/Linux-%E9%A3%9E%E8%A1%8C%E6%89%8B%E5%86%8C/</loc>
+    <loc>http://wenont.github.io/2022/02/07/Linux-%E9%A3%9E%E8%A1%8C%E6%89%8B%E5%86%8C/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/07/hello-world/</loc>
+    <loc>http://wenont.github.io/2022/02/07/hello-world/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/07/test/</loc>
+    <loc>http://wenont.github.io/2022/02/07/test/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/404/index.html</loc>
+    <loc>http://wenont.github.io/404/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://wenont.github.io/categories/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://wenont.github.io/tags/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://wenont.github.io/</loc>
     <lastmod>2022-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,7 +65,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/linux/</loc>
+    <loc>http://wenont.github.io/tags/linux/</loc>
     <lastmod>2022-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -74,7 +74,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>http://wenont.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2022-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
