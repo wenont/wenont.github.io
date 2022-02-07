@@ -3,12 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Wens's Blog
 subtitle: ''
 description: 'Here we are'
 keywords:
 author: Wens
-language: en
+language: 
+  - zh-CN
+  - en
 timezone: ''
 
 # URL
