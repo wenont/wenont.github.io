@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Wens's Blog
+title: 张文盛的博客
 subtitle: ''
-description: 'Here we are'
+description:
 keywords:
-author: Wens
+author: 张文盛
 language: 
   - zh-CN
   - en
@@ -15,7 +15,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://wenont.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,6 +106,7 @@ theme: next
 deploy:
   type: ''
 
+# Sitemap
 sitemap:
   path: sitemap.xml
   template: ./sitemap_template.xml
