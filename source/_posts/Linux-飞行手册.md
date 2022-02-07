@@ -3,9 +3,9 @@
 title: Linux 飞行手册
 date: 2022-02-07 23:29:25
 categories:
-- 技术
+  - 技术
 tags:
-- linux
+  - linux
 
 ---
 
