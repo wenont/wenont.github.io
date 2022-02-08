@@ -9,14 +9,13 @@ tags:
 
 ---
 
-# Linux 飞行规则
+使用的是 Pop_OS，基于 Ubuntu 的发行版。基本讲一些应用安装说明和 trobleshooting
 
-
-
+ <!--more--> 
 ## 文字处理
 
 ### GoldenDict
-
+用了很多年的字典软件
 `sudo apt-get install goldendict`
 
 将 internal player 改为 Qt Multimedia
