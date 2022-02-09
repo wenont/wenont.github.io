@@ -115,6 +115,20 @@ style:
 
 [https://github.com/nodejs/help/wiki/Installation](https://github.com/nodejs/help/wiki/Installation)
 
+为了将 `Node,js` 命令添加到默认路经，使用软链接将 `node`, `npm`, 和 `npx` 放入 `usr/bin/` 中:
+```bash
+sudo ln -s /usr/local/lib/nodejs/node-$VERSION-$DISTRO/bin/node /usr/bin/node
+
+sudo ln -s /usr/local/lib/nodejs/node-$VERSION-$DISTRO/bin/npm /usr/bin/npm
+
+sudo ln -s /usr/local/lib/nodejs/node-$VERSION-$DISTRO/bin/npx /usr/bin/npx
+
+# 如果下载了 Angular 和 Hexo 的包：
+sudo ln -s /usr/local/lib/nodejs/node-$VERSION-$DISTRO/bin/ng /usr/bin/ng
+
+sudo ln -s /usr/local/lib/nodejs/node-$VERSION-$DISTRO/bin/hexo /usr/bin/hexo
+```
+
 ### VS Code
 
 ---
