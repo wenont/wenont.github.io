@@ -31,7 +31,7 @@ tags:
 如何将网页添加到应用中：  
 - Chrome 打开 Notion 网页 > 右上角菜单 > More tools > Create shortcut.. > 选中 Open as window
  
-我添加了那些应用：
+我添加了这些应用：
 - Notion
 - Apple Music
 
