@@ -26,27 +26,22 @@ tags:
 
 ~~外置播放其设置输入：mpv 或 cvlc ，保存即可。~~
 
-### Notion
-
-Notion 没有 Linux 桌面端应用，只能使用网页版。
-
-- 将 Notion 网页添加到应用中：
-  
-  Chrome 打开 Notion 网页 > 右上角菜单 > More tools > Create shortcut..
-  
-  桌面上会产生一个 Notion 的 .desktop 快捷方式，在桌面打开终端：
-  
-  `sudo mv XXX.desktop /usr/share/applications`
+### 添加 Chrome 应用
+有一些应用 Linux 没有，但是 Web 端也很好用。  
+如何将网页添加到应用中：  
+- Chrome 打开 Notion 网页 > 右上角菜单 > More tools > Create shortcut.. > 选中 Open as window
+ 
+我添加了那些应用：
+- Notion
+- Apple Music
 
 ### Obsidian
 
 knowledge base
 
 ### Mark text
-
+Markdown editor  
 [https://github.com/marktext/marktext](https://github.com/marktext/marktext)
-
-Markdown editor
 
 ### LaTeX - TeXlive
 
