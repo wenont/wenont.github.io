@@ -213,7 +213,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="Python-安装指南"><a href="#Python-安装指南" class="headerlink" title="Python 安装指南"></a>Python 安装指南</h1><p>使用 Anaconda  和 jupyter 笔记本写 Python</p>
+          <h1 id="Python-安装指南"><a href="#Python-安装指南" class="headerlink" title="Python 安装指南"></a>Python 安装指南</h1><p>使用 Anaconda  和 jupyter Notebook 写 Python</p>
 <h2 id="安装-Anaconda"><a href="#安装-Anaconda" class="headerlink" title="安装 Anaconda"></a>安装 Anaconda</h2><ul>
 <li><p>下载并安装<br><a target="_blank" rel="noopener" href="https://www.anaconda.com/products/individual#Downloads">https://www.anaconda.com/products/individual#Downloads</a></p>
 </li>
@@ -221,12 +221,12 @@
 </li>
 </ul>
 <h3 id="Windows-下激活虚拟环境需要初始化"><a href="#Windows-下激活虚拟环境需要初始化" class="headerlink" title="Windows 下激活虚拟环境需要初始化"></a>Windows 下激活虚拟环境需要初始化</h3><p>刚安装完 Anaconda，在 windows powershell 中是无法激活虚拟环境的。为了开启激活，需要在终端里执行：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda init powershell</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">conda init powershell</span><br><span class="line"><span class="comment"># linux 下 执行 conda init</span></span><br></pre></td></tr></table></figure>
 
 <ul>
 <li>在 Terminal 里查看使设置成功<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">conda --version</span><br><span class="line">python --version</span><br></pre></td></tr></table></figure></li>
 </ul>
-<h2 id="打开-Jupyter"><a href="#打开-Jupyter" class="headerlink" title="打开 Jupyter"></a>打开 Jupyter</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 打开 jupyter notebook</span></span><br><span class="line">jupyter notebook</span><br><span class="line"><span class="comment"># 打开 jupyter lab</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># conda install -c conda-forge jupyterlab</span></span><br><span class="line">jupyter lab</span><br></pre></td></tr></table></figure>
+<h2 id="打开-Jupyter"><a href="#打开-Jupyter" class="headerlink" title="打开 Jupyter"></a>打开 Jupyter</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 打开 jupyter notebook</span></span><br><span class="line">jupyter notebook</span><br><span class="line"><span class="comment"># 打开 jupyter lab</span></span><br><span class="line"><span class="comment">## 没有安装的话需要执行 conda install -c conda-forge jupyterlab</span></span><br><span class="line">jupyter lab</span><br></pre></td></tr></table></figure>
 
 <h2 id="用-conda-创建-python-虚拟环境"><a href="#用-conda-创建-python-虚拟环境" class="headerlink" title="用 conda 创建 python 虚拟环境"></a>用 conda 创建 python 虚拟环境</h2><ol>
 <li>查看当前存在哪些虚拟环境<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">conda env <span class="built_in">list</span></span><br><span class="line"><span class="comment"># 或者 conda info -e</span></span><br></pre></td></tr></table></figure></li>
