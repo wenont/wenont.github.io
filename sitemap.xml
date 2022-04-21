@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wenont.github.io/2022/04/21/Hexo-%E6%9B%B4%E6%96%B0%E6%96%87%E7%AB%A0%E6%AD%A5%E9%AA%A4/</loc>
+    
+    <lastmod>2022-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wenont.github.io/2022/02/07/Linux-%E9%A3%9E%E8%A1%8C%E6%89%8B%E5%86%8C/</loc>
     
     <lastmod>2022-04-21</lastmod>
@@ -72,6 +81,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://wenont.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://wenont.github.io/tags/linux/</loc>
