@@ -6,7 +6,7 @@ tags: 编程
 ---
 
 # Python 安装指南
-使用 Anaconda  和 jupyter 笔记本写 Python
+使用 Anaconda  和 jupyter Notebook 写 Python
 
 ## 安装 Anaconda 
 - 下载并安装
@@ -18,8 +18,9 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/index.html
 
 ### Windows 下激活虚拟环境需要初始化
 刚安装完 Anaconda，在 windows powershell 中是无法激活虚拟环境的。为了开启激活，需要在终端里执行：
-```
+```python
 conda init powershell
+# linux 下 执行 conda init
 ```
 
 - 在 Terminal 里查看使设置成功
@@ -33,8 +34,7 @@ python --version
 # 打开 jupyter notebook
 jupyter notebook
 # 打开 jupyter lab
-
-# conda install -c conda-forge jupyterlab
+## 没有安装的话需要执行 conda install -c conda-forge jupyterlab
 jupyter lab
 ```
 
